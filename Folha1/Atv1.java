@@ -1,12 +1,12 @@
 //1. Escreva um algoritmo que leia um número digitado pelo usuário e mostre a
 //mensagem “Número maior do que 10!”, caso este número seja maior, ou “Número
 //menor ou igual a 10!”, caso este número seja menor ou igual. 
-
+package src;
 import java.util.Scanner;
 
 public class Atv1 {
 
-    public static void main(String[] args) {
+    public void ExecutarPrograma() {
         Scanner ler = new Scanner(System.in);
 
         System.out.println("Informe um número inteiro: ");

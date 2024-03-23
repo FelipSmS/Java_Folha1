@@ -7,7 +7,7 @@
 import java.util.Scanner;
 
 public class Atv15 {
-    public static void main(String[] args) {
+    public void ExecutarPrograma() {
         Scanner ler = new Scanner(System.in);
 
         System.out.print("Digite as coordenadas do ponto P1 (x1 y1): ");
